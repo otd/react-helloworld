@@ -1,3 +1,12 @@
+## create-react-app
+```
+npm install -g create-react-app
+
+create-react-app react-helloworld
+cd react-helloworld/
+npm start
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
